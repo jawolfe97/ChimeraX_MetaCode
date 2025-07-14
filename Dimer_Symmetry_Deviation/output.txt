@@ -1,0 +1,4 @@
+Filename	Average Difference	Standard Deviation
+3V1B_Ca.csv	2.506276	1.967911
+3V1C_Ca.csv	0.325683	0.266774
+3V1D_Ca.csv	0.126119	0.118043

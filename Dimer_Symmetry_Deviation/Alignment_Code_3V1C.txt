@@ -1,0 +1,8 @@
+#Clear Environment, Open Two copies of Structure
+close all; 
+open 3V1C; 
+open 3V1C;
+
+matchmaker #2/A:3-21,24-42@CA#2/B:3-21,24-42@CA to #1/B:3-21,24-42@CA#1/A:3-21,24-42@CA pairing ss;
+
+
